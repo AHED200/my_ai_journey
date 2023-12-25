@@ -1,7 +1,7 @@
 # This repository contains all ML and DL projects I have worked on in my journey to become a AI Engineer.
 
 ## Table of Contents
-1. :house: [House Price Prediction](#house-price-prediction)
+1. :house: [House Price Prediction](/house_price_prediction/)
 
 
 ## :house: House Price Prediction
